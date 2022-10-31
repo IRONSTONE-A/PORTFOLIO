@@ -5,7 +5,7 @@ export const data = [
         id: 'r25',
         name: 'Blog App Firebase',
         image:'blog-app-firebase',
-        gif: 'blog-app-firebase',
+        gif: '',
         tool:'react',
         link:'https://blog-fire-react-app.vercel.app/',
         source: 'https://github.com/IRONSTONE-A/blog-fire-react-app',
